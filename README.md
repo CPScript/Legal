@@ -9,7 +9,6 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 
 You **may not** use this work for *commercial purposes*. You **may not** *modify*, *transform*, *or build* upon this work. You **must give appropriate credit to the original author**.
 
-To view a copy of this license, visit:
 🔗 Full License Details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
